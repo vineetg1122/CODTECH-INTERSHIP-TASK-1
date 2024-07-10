@@ -4,9 +4,11 @@ INTERN ID: CT08DS4125
 COMPANY: CODTECH IT SOLUTIONS
 DOMAIN: Embedded Systems
 DURATION: July to August
-MENTOR: 
+MENTOR: SANTOSH
 
 Overview of Home Automation System
+
+
 Purpose:
 A home automation system aims to enhance the convenience, security, and energy efficiency of a home by allowing control of home appliances and systems through a centralized interface, often accessible remotely.
 
